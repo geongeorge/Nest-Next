@@ -1,8 +1,9 @@
 # Nest - Next
 
 - Renders next using custom server
-- From [thisismydesign](https://medium.com/geekculture/nestjs-react-next-js-in-one-mvc-repo-for-rapid-prototyping-faed42a194ca) )
+- From [thisismydesign](https://medium.com/geekculture/nestjs-react-next-js-in-one-mvc-repo-for-rapid-prototyping-faed42a194ca)
 - Uses `/api` route for server using [router module](https://docs.nestjs.com/recipes/router-module)
+- See `src/server/routes.ts` to add server api prefix for controllers
 
 ## Description
 
