@@ -2,7 +2,7 @@ import { UserModule } from './user/user.module';
 
 export const routes = [
   {
-    path: '/api',
+    path: 'api',
     children: [UserModule],
   },
 ];
